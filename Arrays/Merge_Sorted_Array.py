@@ -22,4 +22,3 @@ class Solution(object):
             nums1[k]=nums2[high]
             high-=1
             k-=1
-
